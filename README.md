@@ -15,3 +15,12 @@ An analysis of IMDb movie datasets, retrieved on 4 Dec 2021.
 * IMDB ratings of 10.0 received only a maximum of 511 votes
 * Movies with extremely high ratings were mostly recent releases
 * Drama is the most popular genre, followed by comedy
+
+## Plots:
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/1.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/2.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/3.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/4.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/5.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/6.png)
+![](https://github.com/kaychiiiii/IMDb-Movie-Ratings/blob/main/Plots/7.png)
