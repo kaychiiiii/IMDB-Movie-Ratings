@@ -1,5 +1,5 @@
-# IMDB-Movie-Ratings
-An analysis of IMDB movie datasets, retrieved on 4 Dec 2021.
+# IMDb-Movie-Ratings
+An analysis of IMDb movie datasets, retrieved on 4 Dec 2021.
 
 * Data source: [IMDb Datasets](https://www.imdb.com/interfaces/)
 * Datasets: `title.akas.tsv.gz`, `title.basics.tsv.gz`, `title.crew.tsv.gz`, `title.ratings.tsv.gz`, `name.basics.tsv.gz`
